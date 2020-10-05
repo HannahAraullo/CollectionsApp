@@ -1,0 +1,10 @@
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\bin\Debug\CollectionsApp.exe.config
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\bin\Debug\CollectionsApp.exe
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\bin\Debug\CollectionsApp.pdb
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.csprojAssemblyReference.cache
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.Form1.resources
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.Properties.Resources.resources
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.csproj.GenerateResource.cache
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.exe
+C:\Users\Hannah\source\repos\CollectionsApp\CollectionsApp\obj\Debug\CollectionsApp.pdb
